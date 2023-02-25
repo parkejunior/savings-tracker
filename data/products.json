@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Tenis Nike AirMAX SC",
+        "amount": 398.99,
+        "discountAmount": 99.99,
+        "categoryId": 1,
+        "imageUrl": "https://static.netshoes.com.br/produtos/tenis-nike-air-max-sc-masculino/06/2IC-8152-006/2IC-8152-006_zoom1.jpg?ts=1649627435&ims=544x",
+        "lastUpdate": "2023-01-20T12:53:22.0300"
+    },
+    {
+        "id": 2,
+        "title": "Tenis Adidas X9000",
+        "amount": 599.99,
+        "discountAmount": 139.99,
+        "categoryId": 1,
+        "imageUrl": "https://static.netshoes.com.br/produtos/tenis-adidas-x9000-l1-preto-e-branco/06/3ZP-2822-006/3ZP-2822-006_zoom1.jpg?ts=1658862532&ims=544x",
+        "lastUpdate": "2023-01-20T13:15:04.0300"
+    },
+    {
+        "id": 3,
+        "title": "Camiseta Fila Letter",
+        "amount": 129.99,
+        "discountAmount": 19.99,
+        "categoryId": 2,
+        "imageUrl": "https://static.netshoes.com.br/produtos/camiseta-fila-letter-midi-masculina/36/2FT-9269-036/2FT-9269-036_zoom1.jpg?ts=1649804636&ims=544x",
+        "lastUpdate": "2023-01-23T14:01:05.0300"
+    },
+    {
+        "id": 4,
+        "title": "Camiseta Vans Classic",
+        "amount": 129.99,
+        "discountAmount": 9.59,
+        "categoryId": 2,
+        "imageUrl": "https://static.netshoes.com.br/produtos/camiseta-vans-classic/10/900-0240-010/900-0240-010_zoom1.jpg?ts=1669885096&ims=544x",
+        "lastUpdate": "2023-01-23T11:03:39.0300"
+    },
+    {
+        "id": 5,
+        "title": "Camiseta DC Star",
+        "amount": 109.99,
+        "discountAmount": 29.99,
+        "categoryId": 2,
+        "imageUrl": "https://static.netshoes.com.br/produtos/camiseta-dc-shoes-star-masculina/14/PFI-3196-014/PFI-3196-014_zoom1.jpg?ts=1661773059&ims=544x",
+        "lastUpdate": "2023-01-23T18:48:00.0300"
+    },
+    {
+        "id": 6,
+        "title": "Smartwatch Samsung Galaxy Watch4",
+        "amount": 1399.99,
+        "discountAmount": 299.99,
+        "categoryId": 3,
+        "imageUrl": "https://static.netshoes.com.br/produtos/smartwatch-samsung-galaxy-watch4-bt-40mm/18/2ID-0445-018/2ID-0445-018_zoom1.jpg?ts=1654009122&ims=544x",
+        "lastUpdate": "2023-01-25T08:11:35.0300"
+    },
+    {
+        "id": 7,
+        "title": "Óculos Oakley Sylas",
+        "amount": 599.99,
+        "discountAmount": 99.99,
+        "categoryId": 3,
+        "imageUrl": "https://static.netshoes.com.br/produtos/oculos-de-sol-oakley-sylas-mv-prizm/10/PFN-5083-010/PFN-5083-010_zoom1.jpg?ts=1658861987&ims=544x",
+        "lastUpdate": "2023-01-25T08:11:35.0300"
+    }
+]

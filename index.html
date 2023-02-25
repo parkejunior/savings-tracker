@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Savings Tracker</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <h1>Savings Tracker</h1>
+
+  <section class="card card-body">
+    <form>
+      <div class="search-input-group">
+        <input type="text" name="search" placeholder="Search products with better discounts...">
+        <button type="submit">Find</button>
+      </div>
+    </form>
+  </section>
+
+  <section>
+    <div id="products" class="product-list"></div>
+    
+    <div class="product-list" style="display: none;">
+      <div class="card product-item">
+        <div class="product-header">
+          <div class="product-image" style="background-image: url(https://static.netshoes.com.br/produtos/tenis-nike-air-max-sc-masculino/06/2IC-8152-006/2IC-8152-006_zoom1.jpg?ts=1649627435&ims=544x);"></div>
+
+        </div>
+        <div class="card-body product-body">
+          <h2>Tenis Nike AirMAX SC</h2>
+          <p>Apresentando um design casual, o look de herança do atletismo e, claro, amortecimento Air visível, o Nike Air Max SC é o melhor complemento para qualquer outfit.</p>
+          <div>
+            R$ 398.99 
+            <span>
+              <small class="product-discount">R$ 99.99</small>
+            </span>
+          </div>
+          <div>Shoes</div>
+          <div>2023-01-20T12:53:22.0300</div>
+
+          <div class="align-end">
+            <button class="btn btn-yellow">Go Shopping</button>
+          </div>
+        </div>
+      </div>
+      <div class="card product-item">
+        <div class="product-header">
+          <img src="https://static.netshoes.com.br/produtos/tenis-nike-air-max-sc-masculino/06/2IC-8152-006/2IC-8152-006_zoom1.jpg?ts=1649627435&ims=544x" alt="{{ product.title }}">
+        </div>
+        <div class="product-body">
+          <h2>Tenis Nike AirMAX SC</h2>
+          <p>Apresentando um design casual, o look de herança do atletismo e, claro, amortecimento Air visível, o Nike Air Max SC é o melhor complemento para qualquer outfit.</p>
+          <div>
+            R$ 398.99 
+            <span>
+              <small class="product-discount">R$ 99.99</small>
+            </span>
+          </div>
+          <div>Shoes</div>
+          <div>2023-01-20T12:53:22.0300</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script src="src/app.js" type="module"></script>
+</body>
+</html>
